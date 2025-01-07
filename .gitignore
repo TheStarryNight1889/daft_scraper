@@ -21,3 +21,7 @@ daft_scraper-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/results/
+results/
+results
